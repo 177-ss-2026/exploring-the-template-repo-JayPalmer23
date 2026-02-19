@@ -1,0 +1,5 @@
+Summarize your understanding of `node_modules` and it's relationship with `package.json` (covered in the video for the lesson).  Node is the directory where all of the packages go and package.json shows all the packages. 
+What does the ${} syntax do inside backticks? Why is it useful?Allows you to put your variable in the string and its useful because it makes things simpler and allows you to put whatever text or even math within it.
+What happened when you saved your code in VS Code? (Did it auto-format? Did you see any errors?)  When saved my code, is showed me various coding and spelling mistakes if had any while also having some things formated for me .
+How many commits did you make for this assignment? Why is it better to make multiple small commits instead of one large commit? I made 3 commits its better to do it one at a time to make it easier to track changes when you look at your history.
+When do we use `const` vs `let`? What about `var`? const is used when we know the variable or value is fixed, let is used when your know its going to change, and  var isn't really used due to being outdated but can be used in older coding.
